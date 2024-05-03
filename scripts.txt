@@ -1,0 +1,6 @@
+"scripts": {
+    "start:dev": "nodemon src/index.ts",
+    "lint": "eslint src/ --fix",
+    "format": "npx prettier --write ./src" 
+  },
+    
